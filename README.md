@@ -1,6 +1,6 @@
-# solaris-src
+# Solaris
 
-Game source code was released as public domain along with the shareware-released media files. *Only shareware data, excluding the sound effects, is in the public domain; the rest is proprietary.
+Appears to be the original source code of the game Solaris.
 
 
 
